@@ -1109,4 +1109,4 @@ async def send_message_from_list(message, from_list, first_num=1):
 """
 
 # BOTのトークン
-client.run("NjE4NDQ1Mjg3MjkxMzU1MTQw.XW5yLQ.PUHv-EOWr4K6-Hu0ofELKrf6oWE")
+client.run("NjE4NDQ1Mjg3MjkxMzU1MTQw.Xkz6BA.8-R-RmXBF_aFCVi1m4VyVvz2xP4")
